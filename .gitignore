@@ -133,3 +133,9 @@ dmypy.json
 
 #dataset
 mhist_dataset/
+
+#image set
+images/
+
+#annotation file
+annotations.csv
